@@ -1,0 +1,7 @@
+.githooks
+.github/
+.env
+.git/
+.idea/
+staticfiles/
+.venv/
